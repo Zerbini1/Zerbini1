@@ -17,8 +17,13 @@ Olá! Meu nome é Felipe Zerbini, atualmente estou cursando Engenharia de Contro
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerbini1&theme=holi&background=000&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerbini1&theme=holi&show&layout=donut&card_width=350&background=000)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zerbini1&theme=holi-theme&show&dates=FFF&card_width=900&background=000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerbini1&theme=holi&background=000&show_icons=true" alt="Anurag's GitHub stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerbini1&theme=holi&show&layout=donut&card_width=350&background=000" alt="Top Langs" width="45%" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Zerbini1&theme=holi-theme&show&dates=FFF&card_width=900&background=000" alt="GitHub Streak" width="90%" />
+</p>
+
 
 
