@@ -20,13 +20,18 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerbini1&theme=holi&background=000&show_icons=true" alt="Anurag's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerbini1&theme=holi&show&layout=donut&card_width=350&background=000" alt="Top Langs" width="45%" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zerbini1&theme=holi-theme&show&dates=FFF&card_width=900&background=000" alt="GitHub Streak" width="90%" />
-</p>
+<div>
+  <a href="https://github.com/Zerbini1">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zerbini1&show_icons=true&theme=holi&background=000&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerbini1&layout=compact&langs_count=7&theme=holi&background=000"/> 
+  </center>
+   <center>
+     <img src="https://streak-stats.demolab.com/?user=Zerbini1&theme=holi-theme&show&dates=FFF&card_width=820&background=000" alt="GitHub Streak"  />
+  </center> 
+</div>
 
 
 
