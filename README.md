@@ -20,17 +20,16 @@
 
 ## GitHub Stats
 
-<div>
+<div style="text-align: center;">
   <a href="https://github.com/Zerbini1">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zerbini1&show_icons=true&theme=holi&background=000&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerbini1&layout=compact&langs_count=7&theme=holi&background=000"/> 
-  </center>
-   <center>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Zerbini1&show_icons=true&theme=holi&background=000&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerbini1&layout=compact&langs_count=7&theme=holi&background=000"/> 
+  </a>
+
+
+<!--    <center>
      <img src="https://streak-stats.demolab.com/?user=Zerbini1&theme=holi-theme&show&dates=FFF&card_width=820&background=000" alt="GitHub Streak"  />
-  </center> 
+  </center>  -->
 </div>
 
 
