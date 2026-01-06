@@ -1,9 +1,11 @@
 # Felipe Zerbini
 <img align="right" width="50%" src="https://github.com/Zerbini1/Zerbini1/assets/123004066/31a55e48-148d-4a35-b0c5-2c9112c12d62">
 <p align="justify">
-  Desenvolvedor Back-end com foco em <b>C#/.NET</b>. 
+  👋 Olá! Sou o Felipe.
+  <br><br>
+  Estudante de Engenharia de Controle e Automação especializando-se em <b>Engenharia de Dados</b>.
   <br>
-  Atualmente cursando Engenharia de Controle e Automação e aplicando conhecimentos de engenharia para construir soluções de software robustas e eficientes.
+  Atualmente atuo como estagiário na área, onde desenvolvo pipelines de dados (ETL), arquiteturas de Big Data e automações para transformar dados brutos em soluções escaláveis e insights de negócio.
 </p>
 
 ---
@@ -15,21 +17,23 @@
 
 ---
 
-### 🛠️ Habilidades
+### 🛠️ Data Stack Principal
 
-#### Tecnologias
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=000)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&color=000)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white&color=000)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&color=000)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&color=000)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&color=000)
 
-#### Frameworks
+### 💻 Background de Desenvolvimento
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=000)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&color=000)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&color=000)
+![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=000)
 
-#### Ferramentas e Versionamento
+### ⚙️ Ferramentas & DevOps
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=000)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&color=000)
 
 ---
 
